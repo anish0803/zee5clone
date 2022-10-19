@@ -1,0 +1,22 @@
+export const SliderData = [
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-4z5193948/cover/1920x770b90f094643b54d1193e437a5ba25b97c.jpg'
+    },
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227565/cover/1920x7706c96eada682140629264faf1f787bfe66a2593ba632e4b1788f5dd993c825b7f.jpg'
+    },
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5234663/cover/1920x7708f2251201adf41988e18982f4dc2b7e6.jpg'
+    },
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/cover/1920x7709b8fd40b5e5849cebd33fda734381b73.jpg'
+    },
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5227565/cover/1920x7706c96eada682140629264faf1f787bfe66a2593ba632e4b1788f5dd993c825b7f.jpg'
+    }
+  ];
