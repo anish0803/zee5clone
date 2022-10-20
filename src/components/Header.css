@@ -5,10 +5,16 @@
 
 }
 
+.banner{
+    background-color:blueviolet;
+    margin: auto;
+    text-align: center;
+}
+
 .container{
     display: flex;
     flex-direction: row;
-    background-color: red;
+    background-color:rgb(9, 9, 37);
 }
 
 .nav1{

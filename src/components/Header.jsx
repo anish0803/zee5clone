@@ -71,6 +71,10 @@ function Header(props) {
           </div>
         </ul>
       </div>
+      <div className="banner">
+      <img src="https://tpc.googlesyndication.com/simgad/6286502513900338320?" alt="" />
+      </div>
+
     </>
   );
 }
