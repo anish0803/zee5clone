@@ -4,10 +4,21 @@
     grid-template-columns: repeat(5,auto);
     background-color: black;
     color: white;
-    margin-top: 5%;
+    /* margin-top: 5%; */
 }
 .poster{
     width: 200px;
+}
+
+.movies{
+    background-color: blue;
+   
+    color: green;
+    font-size:60px;
+}
+
+.movies:hover{
+    color: violet;
 }
 
 .Container{

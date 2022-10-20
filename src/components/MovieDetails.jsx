@@ -29,6 +29,8 @@ const MovieDetails = () => {
 
     return (
         <>
+                        <h1 className='movies'>Movies</h1>
+
         <div className="Card"> 
         {
                 getMovieData.map((currElem) => {

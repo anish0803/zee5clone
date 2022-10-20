@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.channel{
+    background-color: blue;
+    /* margin: 20px;
+    padding: 20px; */
+    color: green;
+    font-size:60px;
+}
+
+.channel:hover{
+    color: violet;
+}
+
+.channel-div{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    /* margin: 20px; */
+    /* text-align: center; */
+    justify-content: center;
+    /* align-items: center; */
+}
+
+/* img{
+    height: 70px;
+    width: 70px;
+} */

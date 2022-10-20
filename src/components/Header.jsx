@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 
-function Header() {
+function Header(props) {
   return (
     <>
       <div className="container">
@@ -54,7 +54,9 @@ function Header() {
 
           <div className="search">
           {/* <i class="fa-solid fa-magnifying-glass"></i> */}
-            <input type="text" placeholder="search for movies and tvshows,Channels,etc" />
+            <input type="text" onChange={(e) => {
+                  props.getvalue(e.target.value);
+                }} placeholder="search for movies and tvshows,Channels,etc"  />
             
             {/* <i class="fa-solid fa-microphone"></i> */}
           </div>
