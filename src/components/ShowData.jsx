@@ -1,0 +1,22 @@
+export const ShowData = [
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-3392/cover/1920x770eb7230516a1e4ca590fa30f4f42c9da4.jpg'
+    },
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-127/cover/1920x77062dbf030fe1d45ec91e78658e12cde4d.jpg'
+    },
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-3519/cover/1920x7708ebe07d337e64893864a4ba0f504a0dcbd06f7d50d4147b9af7c2ed5057f96de.jpg'
+    },
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-4z5185799/cover/1920x7703d2c335749b74e0cb1c5f03f1758e910.jpg'
+    },
+    {
+      image:
+        'https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-366/cover/1920x7701a3261bba7924d2693d88cfc762a631b.jpg'
+    }
+  ];
